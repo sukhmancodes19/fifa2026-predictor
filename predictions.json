@@ -1,0 +1,314 @@
+{
+  "bracket": {
+    "quarterfinals": [
+      [
+        "France",
+        "Morocco"
+      ],
+      [
+        "Spain",
+        "Belgium"
+      ],
+      [
+        "Norway",
+        "England"
+      ],
+      [
+        "Argentina",
+        "Switzerland"
+      ]
+    ],
+    "semiPairingAssumption": "QF1/QF2 winners meet; QF3/QF4 winners meet"
+  },
+  "simulations": 50000,
+  "contenders": [
+    {
+      "team": "France",
+      "currentElo": 2194,
+      "p_reach_semifinal": 0.75258,
+      "p_reach_final": 0.4337,
+      "p_win_title": 0.26742,
+      "rf_top4_prob_pretournament": 0.530001
+    },
+    {
+      "team": "Spain",
+      "currentElo": 2210,
+      "p_reach_semifinal": 0.79036,
+      "p_reach_final": 0.4182,
+      "p_win_title": 0.26662,
+      "rf_top4_prob_pretournament": 0.230001
+    },
+    {
+      "team": "Argentina",
+      "currentElo": 2204,
+      "p_reach_semifinal": 0.81448,
+      "p_reach_final": 0.51126,
+      "p_win_title": 0.25246,
+      "rf_top4_prob_pretournament": 0.526667
+    },
+    {
+      "team": "England",
+      "currentElo": 2131,
+      "p_reach_semifinal": 0.61934,
+      "p_reach_final": 0.30068,
+      "p_win_title": 0.11282,
+      "rf_top4_prob_pretournament": 0.280001
+    },
+    {
+      "team": "Morocco",
+      "currentElo": 2054,
+      "p_reach_semifinal": 0.24742,
+      "p_reach_final": 0.0895,
+      "p_win_title": 0.03482,
+      "rf_top4_prob_pretournament": 0.06
+    },
+    {
+      "team": "Norway",
+      "currentElo": 2027,
+      "p_reach_semifinal": 0.38066,
+      "p_reach_final": 0.12664,
+      "p_win_title": 0.03056,
+      "rf_top4_prob_pretournament": 0.036667
+    },
+    {
+      "team": "Belgium",
+      "currentElo": 2040,
+      "p_reach_semifinal": 0.20964,
+      "p_reach_final": 0.0586,
+      "p_win_title": 0.02224,
+      "rf_top4_prob_pretournament": 0.13
+    },
+    {
+      "team": "Switzerland",
+      "currentElo": 2009,
+      "p_reach_semifinal": 0.18552,
+      "p_reach_final": 0.06142,
+      "p_win_title": 0.01306,
+      "rf_top4_prob_pretournament": 0.023333
+    }
+  ],
+  "allTeamsRfPretournament": [
+    {
+      "team": "France",
+      "rf_top4_prob_pretournament": 0.530001
+    },
+    {
+      "team": "Argentina",
+      "rf_top4_prob_pretournament": 0.526667
+    },
+    {
+      "team": "Netherlands",
+      "rf_top4_prob_pretournament": 0.403333
+    },
+    {
+      "team": "Germany",
+      "rf_top4_prob_pretournament": 0.34
+    },
+    {
+      "team": "Croatia",
+      "rf_top4_prob_pretournament": 0.336667
+    },
+    {
+      "team": "England",
+      "rf_top4_prob_pretournament": 0.280001
+    },
+    {
+      "team": "Mexico",
+      "rf_top4_prob_pretournament": 0.250001
+    },
+    {
+      "team": "Brazil",
+      "rf_top4_prob_pretournament": 0.233333
+    },
+    {
+      "team": "Spain",
+      "rf_top4_prob_pretournament": 0.230001
+    },
+    {
+      "team": "Uruguay",
+      "rf_top4_prob_pretournament": 0.213333
+    },
+    {
+      "team": "Canada",
+      "rf_top4_prob_pretournament": 0.166667
+    },
+    {
+      "team": "Sweden",
+      "rf_top4_prob_pretournament": 0.15
+    },
+    {
+      "team": "Belgium",
+      "rf_top4_prob_pretournament": 0.13
+    },
+    {
+      "team": "United States",
+      "rf_top4_prob_pretournament": 0.11
+    },
+    {
+      "team": "Portugal",
+      "rf_top4_prob_pretournament": 0.106667
+    },
+    {
+      "team": "South Korea",
+      "rf_top4_prob_pretournament": 0.103333
+    },
+    {
+      "team": "Colombia",
+      "rf_top4_prob_pretournament": 0.08
+    },
+    {
+      "team": "Austria",
+      "rf_top4_prob_pretournament": 0.073333
+    },
+    {
+      "team": "Morocco",
+      "rf_top4_prob_pretournament": 0.06
+    },
+    {
+      "team": "Turkey",
+      "rf_top4_prob_pretournament": 0.056667
+    },
+    {
+      "team": "Senegal",
+      "rf_top4_prob_pretournament": 0.056667
+    },
+    {
+      "team": "Iran",
+      "rf_top4_prob_pretournament": 0.046667
+    },
+    {
+      "team": "Japan",
+      "rf_top4_prob_pretournament": 0.043333
+    },
+    {
+      "team": "Ghana",
+      "rf_top4_prob_pretournament": 0.04
+    },
+    {
+      "team": "Norway",
+      "rf_top4_prob_pretournament": 0.036667
+    },
+    {
+      "team": "Algeria",
+      "rf_top4_prob_pretournament": 0.036667
+    },
+    {
+      "team": "Australia",
+      "rf_top4_prob_pretournament": 0.033333
+    },
+    {
+      "team": "Iraq",
+      "rf_top4_prob_pretournament": 0.026667
+    },
+    {
+      "team": "Switzerland",
+      "rf_top4_prob_pretournament": 0.023333
+    },
+    {
+      "team": "Scotland",
+      "rf_top4_prob_pretournament": 0.023333
+    },
+    {
+      "team": "Ecuador",
+      "rf_top4_prob_pretournament": 0.016667
+    },
+    {
+      "team": "Ivory Coast",
+      "rf_top4_prob_pretournament": 0.016667
+    },
+    {
+      "team": "Saudi Arabia",
+      "rf_top4_prob_pretournament": 0.016667
+    },
+    {
+      "team": "Czech Republic",
+      "rf_top4_prob_pretournament": 0.01
+    },
+    {
+      "team": "Uzbekistan",
+      "rf_top4_prob_pretournament": 0.006667
+    },
+    {
+      "team": "Paraguay",
+      "rf_top4_prob_pretournament": 0.003333
+    },
+    {
+      "team": "Tunisia",
+      "rf_top4_prob_pretournament": 0.003333
+    },
+    {
+      "team": "Curaçao",
+      "rf_top4_prob_pretournament": 0.003333
+    },
+    {
+      "team": "Panama",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "Egypt",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "Jordan",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "DR Congo",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "New Zealand",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "Haiti",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "South Africa",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "Cape Verde",
+      "rf_top4_prob_pretournament": 0
+    },
+    {
+      "team": "Qatar",
+      "rf_top4_prob_pretournament": 0
+    }
+  ],
+  "modelDiagnostics": {
+    "logreg": {
+      "accuracy": 0.7542162374166558,
+      "logLoss": 0.49758079023445867,
+      "coefficients": {
+        "elo_diff": 1.546931833726446,
+        "home_advantage": 0.2599368006928712,
+        "bias": 0.7579632682477763
+      }
+    },
+    "eloBaseline": {
+      "accuracy": 0.7449339782978167,
+      "logLoss": 0.5138640709120251
+    },
+    "randomForest": {
+      "accuracy": 0.8367346938775511,
+      "majorityBaseline": 0.8367346938775511,
+      "permutationImportance": {
+        "elo": 0,
+        "form_ppg_10": 0,
+        "form_gd_10": 0,
+        "all_time_win_rate": 0,
+        "wc_titles": 0.010204081632653073,
+        "wc_finals": 0,
+        "wc_top4": 0.010204081632653073,
+        "wc_appearances": 0,
+        "is_host": 0
+      }
+    }
+  }
+}

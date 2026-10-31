@@ -1,0 +1,269 @@
+[
+  {
+    "year": 1930,
+    "hosts": [
+      "Uruguay"
+    ],
+    "winner": "Uruguay",
+    "runnerUp": "Argentina",
+    "third": "United States",
+    "fourth": "Yugoslavia",
+    "goalsScored": 70,
+    "qualifiedTeams": 13
+  },
+  {
+    "year": 1934,
+    "hosts": [
+      "Italy"
+    ],
+    "winner": "Italy",
+    "runnerUp": "Czechoslovakia",
+    "third": "Germany",
+    "fourth": "Austria",
+    "goalsScored": 70,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1938,
+    "hosts": [
+      "France"
+    ],
+    "winner": "Italy",
+    "runnerUp": "Hungary",
+    "third": "Brazil",
+    "fourth": "Sweden",
+    "goalsScored": 84,
+    "qualifiedTeams": 15
+  },
+  {
+    "year": 1950,
+    "hosts": [
+      "Brazil"
+    ],
+    "winner": "Uruguay",
+    "runnerUp": "Brazil",
+    "third": "Sweden",
+    "fourth": "Spain",
+    "goalsScored": 88,
+    "qualifiedTeams": 13
+  },
+  {
+    "year": 1954,
+    "hosts": [
+      "Switzerland"
+    ],
+    "winner": "Germany",
+    "runnerUp": "Hungary",
+    "third": "Austria",
+    "fourth": "Uruguay",
+    "goalsScored": 140,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1958,
+    "hosts": [
+      "Sweden"
+    ],
+    "winner": "Brazil",
+    "runnerUp": "Sweden",
+    "third": "France",
+    "fourth": "Germany",
+    "goalsScored": 126,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1962,
+    "hosts": [
+      "Chile"
+    ],
+    "winner": "Brazil",
+    "runnerUp": "Czechoslovakia",
+    "third": "Chile",
+    "fourth": "Yugoslavia",
+    "goalsScored": 89,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1966,
+    "hosts": [
+      "England"
+    ],
+    "winner": "England",
+    "runnerUp": "Germany",
+    "third": "Portugal",
+    "fourth": "Russia",
+    "goalsScored": 89,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1970,
+    "hosts": [
+      "Mexico"
+    ],
+    "winner": "Brazil",
+    "runnerUp": "Italy",
+    "third": "Germany",
+    "fourth": "Uruguay",
+    "goalsScored": 95,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1974,
+    "hosts": [
+      "Germany"
+    ],
+    "winner": "Germany",
+    "runnerUp": "Netherlands",
+    "third": "Poland",
+    "fourth": "Brazil",
+    "goalsScored": 97,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1978,
+    "hosts": [
+      "Argentina"
+    ],
+    "winner": "Argentina",
+    "runnerUp": "Netherlands",
+    "third": "Brazil",
+    "fourth": "Italy",
+    "goalsScored": 102,
+    "qualifiedTeams": 16
+  },
+  {
+    "year": 1982,
+    "hosts": [
+      "Spain"
+    ],
+    "winner": "Italy",
+    "runnerUp": "Germany",
+    "third": "Poland",
+    "fourth": "France",
+    "goalsScored": 146,
+    "qualifiedTeams": 24
+  },
+  {
+    "year": 1986,
+    "hosts": [
+      "Mexico"
+    ],
+    "winner": "Argentina",
+    "runnerUp": "Germany",
+    "third": "France",
+    "fourth": "Belgium",
+    "goalsScored": 132,
+    "qualifiedTeams": 24
+  },
+  {
+    "year": 1990,
+    "hosts": [
+      "Italy"
+    ],
+    "winner": "Germany",
+    "runnerUp": "Argentina",
+    "third": "Italy",
+    "fourth": "England",
+    "goalsScored": 115,
+    "qualifiedTeams": 24
+  },
+  {
+    "year": 1994,
+    "hosts": [
+      "United States"
+    ],
+    "winner": "Brazil",
+    "runnerUp": "Italy",
+    "third": "Sweden",
+    "fourth": "Bulgaria",
+    "goalsScored": 141,
+    "qualifiedTeams": 24
+  },
+  {
+    "year": 1998,
+    "hosts": [
+      "France"
+    ],
+    "winner": "France",
+    "runnerUp": "Brazil",
+    "third": "Croatia",
+    "fourth": "Netherlands",
+    "goalsScored": 171,
+    "qualifiedTeams": 32
+  },
+  {
+    "year": 2002,
+    "hosts": [
+      "South Korea",
+      "Japan"
+    ],
+    "winner": "Brazil",
+    "runnerUp": "Germany",
+    "third": "Turkey",
+    "fourth": "South Korea",
+    "goalsScored": 161,
+    "qualifiedTeams": 32
+  },
+  {
+    "year": 2006,
+    "hosts": [
+      "Germany"
+    ],
+    "winner": "Italy",
+    "runnerUp": "France",
+    "third": "Germany",
+    "fourth": "Portugal",
+    "goalsScored": 147,
+    "qualifiedTeams": 32
+  },
+  {
+    "year": 2010,
+    "hosts": [
+      "South Africa"
+    ],
+    "winner": "Spain",
+    "runnerUp": "Netherlands",
+    "third": "Germany",
+    "fourth": "Uruguay",
+    "goalsScored": 145,
+    "qualifiedTeams": 32
+  },
+  {
+    "year": 2014,
+    "hosts": [
+      "Brazil"
+    ],
+    "winner": "Germany",
+    "runnerUp": "Argentina",
+    "third": "Netherlands",
+    "fourth": "Brazil",
+    "goalsScored": 171,
+    "qualifiedTeams": 32
+  },
+  {
+    "year": 2018,
+    "hosts": [
+      "Russia"
+    ],
+    "winner": "France",
+    "runnerUp": "Croatia",
+    "third": "Belgium",
+    "fourth": "England",
+    "goalsScored": null,
+    "qualifiedTeams": 32,
+    "derived": true
+  },
+  {
+    "year": 2022,
+    "hosts": [
+      "Qatar"
+    ],
+    "winner": "Argentina",
+    "runnerUp": "France",
+    "third": "Croatia",
+    "fourth": "Morocco",
+    "goalsScored": null,
+    "qualifiedTeams": 32,
+    "derived": true
+  }
+]
